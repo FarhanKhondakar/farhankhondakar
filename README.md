@@ -2,15 +2,16 @@
 
 ###
 
-<div align="center">
+<div align="center" style="font-size: 0;">
   <a href="mailto:developer@farhankhondaka.software" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/farhankhondakar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
   </a>
   <img src="https://img.shields.io/static/v1?message=EscapeOnTime&logo=EscapeOnTime&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="EscapeOnTime Logo" />
 </div>
+
 
 ###
 
