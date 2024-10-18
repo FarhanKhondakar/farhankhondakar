@@ -9,6 +9,9 @@
   <a href="mailto:developer@farhankhondakar.software" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
+  <a href="https://www.escapeontime.com" target="_blank">
+    <img src="https://img.shields.io/badge/EscapeOnTime-Live-EA5C5A.svg" alt="EscapeOnTime Status" />
+  </a>
 </div>
 
 ###
